@@ -1,6 +1,2 @@
-"Fueled by caffeine, sarcasm, & inappropriate thoughts" - Mykdawg
-
-"git remote add origin https://github.com/esellors/git-process-example.git
-git push -u origin master" - Jacob
-
-do eet
+"If we shouldn't eat at night, then why is there a light in the fridge?" - Eric
+x
